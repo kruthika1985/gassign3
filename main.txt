@@ -1,0 +1,10 @@
+ git remote add origin https://github.com/kruthika1985/gassign3
+  14 git push
+  15 git status
+  16 history
+  17 cls
+  18 git status
+  19 git branch
+  20 git add .
+  21 git commit -m "adding one more file to gi branch f1"
+  22 git push
